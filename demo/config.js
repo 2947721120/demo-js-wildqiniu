@@ -3,6 +3,6 @@ module.exports = {
                 'SECRET_KEY': 'R0gfQt2Yp5aGLZ4GJ1HKWQlMSemGWk4zJsZibyhw',
                 'Bucket_Name': 'cdnmall',
                 'Port': 8080,
-                'Uptoken_Url': '/uptoken',
+                'Uptoken_Url'',
                 'Domain': 'http://o8065rd96.bkt.clouddn.com/'
 };
