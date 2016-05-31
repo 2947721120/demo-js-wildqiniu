@@ -1,8 +1,8 @@
 module.exports = {
-     	 'ACCESS_KEY': '<Your Access Key>',
-                'SECRET_KEY': '<Your Secret Key>',
-                'Bucket_Name': '<Your Bucket Name>',
+     	 'ACCESS_KEY': 'kQTq0TBLizzZopNeWGEHgMxQfORCDp0iFtyPG_R7',
+                'SECRET_KEY': 'R0gfQt2Yp5aGLZ4GJ1HKWQlMSemGWk4zJsZibyhw',
+                'Bucket_Name': 'cdnmall',
                 'Port': 18080,
-                'Uptoken_Url': '<Your Uptoken_Url>',
-                'Domain': '<Your Bucket Domain>'
+                'Uptoken_Url': '/uptoken',
+                'Domain': 'http://o8065rd96.bkt.clouddn.com/'
 };
