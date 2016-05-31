@@ -4,5 +4,5 @@ module.exports = {
                 'Bucket_Name': 'cdnmall',
                 'Port': 8080,
                 'Uptoken_Url':'/uptoken',
-                'Domain': 'http://o8065rd96.bkt.clouddn.com'
+                'Domain': 'http://qinniu-plupload.com/'
 };
