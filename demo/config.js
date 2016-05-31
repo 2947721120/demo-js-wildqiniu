@@ -4,5 +4,5 @@ module.exports = {
                 'Bucket_Name': 'cdnmall',
                 'Port': 8080,
                // 'Uptoken_Url'',
-                'Domain': o8065rd96.bkt.clouddn.com/'
+                'Domain': o8065rd96.bkt.clouddn.com'
 };
